@@ -17,8 +17,8 @@ void testLoop(){
         cout<< (int)i<<", "<<endl;
         //This is another hint...
         //Why do we have a break here?
-        //if(i > 60)
-        //    break;
+        if(i > 60)
+           break;
     }
     // Hoc  - 0-61 - 0
     // Dat  - character 0 - 61 - 1
